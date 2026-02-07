@@ -158,3 +158,4 @@ elif st.session_state.page == "final":
             st.session_state.page = "select"
             st.session_state.house = None
             st.session_state.video_index = 0
+
